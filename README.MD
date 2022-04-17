@@ -1,5 +1,5 @@
 <div align="center">
-<img width="60%" height = "250px" src="https://discord.c99.nl/widget/theme-3/280075640382816266.png" alt="cover" />
+<img width="60%" height = "100px" src="https://discord.c99.nl/widget/theme-3/280075640382816266.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
