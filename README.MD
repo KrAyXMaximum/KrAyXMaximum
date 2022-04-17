@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Roblox Game: Project Thunderbolt: https://www.roblox.com/games/5787477635/Project-Thunderbolt] Website: https://maximumbot.xyz
+- 🔭 I’m currently working on a Roblox Game called: Project Thunderbolt: https://www.roblox.com/games/5787477635/Project-Thunderbolt] Website: https://maximumbot.xyz
 
 - 🌱 I’m currently learning C++,  Node.js, Java, Python, JavaScript 
 
